@@ -1,0 +1,5 @@
+{"name": "sacred armor", "qual": "white", "eth": "true", "desc": "(4)", "qty": "1"}
+{"name": "el rune", "qty": "1"}
+{"name": "sol rune", "qty": "1"}
+{"name": "dol rune", "qty": "1"}
+{"name": "lo rune", "qty": "1"}

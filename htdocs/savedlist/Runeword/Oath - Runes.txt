@@ -1,0 +1,4 @@
+{"name": "shael rune", "qty": "1"}
+{"name": "pul rune", "qty": "1"}
+{"name": "mal rune", "qty": "1"}
+{"name": "lum rune", "qty": "1"}

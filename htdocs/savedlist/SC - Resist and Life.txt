@@ -1,0 +1,5 @@
+{"type": "small charm", "stats": [["fireresist", ">", "9"], ["maxhp", ">=", "19"]], "qty": "5"}
+{"type": "small charm", "stats": [["coldresist", ">", "9"], ["maxhp", ">=", "19"]], "qty": "5"}
+{"type": "small charm", "stats": [["lightresist", ">", "9"], ["maxhp", ">=", "19"]], "qty": "5"}
+{"type": "small charm", "stats": [["poisonresist", ">", "9"], ["maxhp", ">=", "19"]], "qty": "5"}
+

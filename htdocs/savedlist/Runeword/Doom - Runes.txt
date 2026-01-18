@@ -1,0 +1,5 @@
+{"name": "hel rune", "qty": "1"}
+{"name": "ohm rune", "qty": "1"}
+{"name": "um rune", "qty": "1"}
+{"name": "lo rune", "qty": "1"}
+{"name": "cham rune", "qty": "1"}

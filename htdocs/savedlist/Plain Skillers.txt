@@ -1,0 +1,21 @@
+{"name": "fletcher's grand charm", "qty": "1"}
+{"name": "acrobatic grand charm", "qty": "1"}
+{"name": "harpoonist's grand charm", "qty": "1"}
+{"name": "burning grand charm", "qty": "1"}
+{"name": "sparking grand charm", "qty": "1"}
+{"name": "chilling grand charm", "qty": "1"}
+{"name": "hexing grand charm", "qty": "1"}
+{"name": "fungal grand charm", "qty": "1"}
+{"name": "graverobber's grand charm", "qty": "1"}
+{"name": "lion branded grand charm", "qty": "1"}
+{"name": "captain's grand charm", "qty": "1"}
+{"name": "preserver's grand charm", "qty": "1"}
+{"name": "expert's grand charm", "qty": "1"}
+{"name": "fanatic grand charm", "qty": "1"}
+{"name": "sounding grand charm", "qty": "1"}
+{"name": "trainer's grand charm", "qty": "1"}
+{"name": "spiritual grand charm", "qty": "1"}
+{"name": "natural grand charm", "qty": "1"}
+{"name": "entrapping grand charm", "qty": "1"}
+{"name": "mentalist's grand charm", "qty": "1"}
+{"name": "shogukusha's grand charm", "qty": "1"}

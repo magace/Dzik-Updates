@@ -1,0 +1,3 @@
+{"name": "perfect diamond", "qty": "1"}
+{"name": "tal rune", "qty": "1"}
+{"name": "shael rune", "qty": "1"}

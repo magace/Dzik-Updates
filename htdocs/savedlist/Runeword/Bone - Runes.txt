@@ -1,0 +1,2 @@
+{"name": "sol rune", "qty": "1"}
+{"name": "um rune", "qty": "2"}

@@ -1,0 +1,5 @@
+{"name": "flail", "qual": "white", "desc": "(4)", "qty": "1"}
+{"name": "ko rune", "qty": "1"}
+{"name": "pul rune", "qty": "1"}
+{"name": "vex rune", "qty": "1"}
+{"name": "thul rune", "qty": "1"}

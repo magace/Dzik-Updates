@@ -1,0 +1,4 @@
+{"name": "Jah Rune", "qty": "1"}
+{"name": "Ith Rune", "qty": "1"}
+{"name": "Ber Rune", "qty": "1"}
+{"name": "Mage Plate", "qual": "white", "desc": "(3)", "qty": "1"}

@@ -1,0 +1,2 @@
+{"name": "Flawless Sapphire", "qty": "1"}
+{"name": "Ber Rune", "qty": "2"}

@@ -1,0 +1,2 @@
+{"name": "Emerald", "qty": "1"}
+{"name": "Vex Rune", "qty": "2"}
